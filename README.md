@@ -1,6 +1,6 @@
-# React + Vite
+# Fligt Booking Page
 
 
 
-- [@Live Link](flight-booking.surge.sh) for Fast Refresh
+- [Live Link](flight-booking.surge.sh) 
 
